@@ -1,0 +1,41 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+input[type=text], input[type=password] {
+    width: 82%;
+    padding: 6px 10px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.sec2 {
+    border: 3px solid White;
+    background-color: white;
+    margin-left: 600px;
+    margin-right: 570px;
+    margin-top: 130px;
+    margin-bottom: 150px;
+    padding-left: 54px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    margin-top: 0px;
+}
+
+.lbn {
+    text-decoration: none;
+}
+
+.signup:hover {
+    background-color: gainsboro;
+    transition: 0.3s;
+}
+
+.labelError {
+}
